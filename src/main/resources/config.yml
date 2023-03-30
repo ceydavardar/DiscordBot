@@ -1,0 +1,8 @@
+token: '-'
+admin-role: 'Admin'
+welcome:
+  channel-id: ''
+  message: 'Welcome dear %member%!'
+word-blacklist:
+  - stupid
+  - fool
